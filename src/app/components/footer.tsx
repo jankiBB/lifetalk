@@ -3,7 +3,7 @@ import React from 'react';
 import appstore from "@/assets/appstore.svg";
 import googleplay from "@/assets/googleplay.svg";
 import logo from '@/assets/lifetalk-logo.png'
-import { Footermenu } from '../data2';
+import { Footermenu } from '@/app/data2';
 import Link from 'next/link';
 const Footer = () => {
     return (
