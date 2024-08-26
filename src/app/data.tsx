@@ -1,4 +1,4 @@
-export const Headermenu = [
+export const menu = [
     {
         text: 'Home',
         url: '/'

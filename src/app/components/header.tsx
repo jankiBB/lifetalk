@@ -1,6 +1,6 @@
 "use client"
 import React, { useState, useEffect } from 'react';
-import { Headermenu } from '@/app/data';
+import { menu } from '@/app/data';
 import logo from '@/assets/lifetalk-logo.png';
 import Image from 'next/image';
 import Link from 'next/link';
