@@ -1,4 +1,4 @@
-export const Headermenu = [
+export const Footermenu = [
     {
         text: 'Home',
         url: '/'
@@ -14,5 +14,9 @@ export const Headermenu = [
     {
         text: 'Contact Us',
         url: '#contact-us'
+    },
+    {
+        text: 'Privacy Policy',
+        url: '@/app/privacypolicy/'
     }
 ]
